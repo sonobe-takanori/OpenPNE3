@@ -7,7 +7,7 @@
 <?php include_http_metas() ?>
 <?php include_metas() ?>
 <?php include_title() ?>
-<?php op_smt_use_stylesheet('bootstrap') ?>
+<link rel="stylesheet" type="text/css" href="/bootpne.jp/web/opSkinThemePlugin/cerulean_smt/css/bootstrap.css" />
 <?php op_smt_use_stylesheet('smt_main') ?>
 <?php op_smt_include_stylesheets() ?>
 <meta name="viewport" content="width=320px,user-scalable=no" />
